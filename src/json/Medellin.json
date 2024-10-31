@@ -1,0 +1,82 @@
+[
+  {
+    "nombre": "Concierto de Karol G",
+    "tipo": "Concierto",
+    "ciudad": "Medellín",
+    "fecha": "2024-11-18",
+    "lugar": "Estadio Atanasio Girardot",
+    "precio":900000
+  },
+  {
+    "nombre": "Partido atl Nacional vs ind. Medellín",
+    "tipo": "Evento Deportivo",
+    "ciudad": "Medellín",
+    "fecha": "2024-11-15",
+    "lugar": "Estadio Atanasio Girardot",
+    "precio":68000
+  },
+  {
+    "nombre": "Obra de Teatro: La Casa de Bernarda Alba",
+    "tipo": "Teatro",
+    "ciudad": "Medellín",
+    "fecha": "2024-11-15",
+    "lugar": "Teatro Metropolitano",
+    "precio":50000
+  },
+  {
+    "nombre": "Concierto de Shakira",
+    "tipo": "Concierto",
+    "ciudad": "Medellín",
+    "fecha": "2024-12-20",
+    "lugar": "Estadio Atanasio Girardot",
+    "precio":950000
+  },
+  {
+    "nombre": "Partido de Baloncesto: Colombia vs Argentina",
+    "tipo": "Evento Deportivo",
+    "ciudad": "Medellín",
+    "fecha": "2024-11-25",
+    "lugar": "Coliseo Iván de Bedout",
+    "precio":23000
+  },
+  {
+    "nombre": "Obra de Teatro: Macbeth",
+    "tipo": "Teatro",
+    "ciudad": "Medellín",
+    "fecha": "2024-11-29",
+    "lugar": "Teatro Pablo Tobón Uribe",
+    "precio":78000
+  },
+  {
+    "nombre": "Concierto de Anuel AA",
+    "tipo": "Concierto",
+    "ciudad": "Medellín",
+    "fecha": "2024-12-01",
+    "lugar": "La Macarena",
+    "precio":700000
+  },
+  {
+    "nombre": "Partido de Fútbol: Medellín vs Millonarios",
+    "tipo": "Evento Deportivo",
+    "ciudad": "Medellín",
+    "fecha": "2024-12-15",
+    "lugar": "Estadio Atanasio Girardot",
+    "precio":34000
+  },
+  {
+    "nombre": "partido atl nacional vs atl mineiro",
+    "tipo": "Evento Deportivo",
+    "ciudad": "Medellín",
+    "fecha": "2024-12-29",
+    "lugar": "Estadio Atanasio Girardot",
+    "precio":89000
+  },
+  {
+    "nombre": "Concierto de La Oreja de Van Gogh",
+    "tipo": "Concierto",
+    "ciudad": "Medellín",
+    "fecha": "2024-12-30",
+    "lugar": "La Macarena",
+    "precio":240000
+  }
+]

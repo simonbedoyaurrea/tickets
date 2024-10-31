@@ -1,0 +1,54 @@
+.card-container{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+    color: bisque;
+    font-family: fantasy;
+    font-weight: 500;
+}
+
+.ciudad-filtro{
+    background-color: blueviolet;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.filtros{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 250px;
+
+    p{
+        color: white;
+    }
+
+    button{
+        border: none;
+        color:rgb(255, 255, 255);
+        background-color: tomato;
+        border-radius: 10px;
+        padding: 7px;
+    }
+}
+.atras-boton{
+    color: blue;
+    padding-left: 50px;
+
+    button{
+        border: none;
+        background-color: tomato;
+        color: beige;
+        padding: 10px;
+    }
+}

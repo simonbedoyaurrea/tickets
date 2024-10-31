@@ -1,0 +1,90 @@
+[
+  {
+    "nombre": "Concierto de Maluma",
+    "tipo": "Concierto",
+    "ciudad": "Cali",
+    "fecha": "2024-11-15",
+    "lugar": "Estadio Pascual Guerrero",
+    "precio":900000
+  },
+  {
+    "nombre": "Partido de Fútbol: América de Cali vs Nacional",
+    "tipo": "Evento Deportivo",
+    "ciudad": "Cali",
+    "fecha": "2024-11-18",
+    "lugar": "Estadio Pascual Guerrero",
+    "precio":59000
+  },
+  {
+    "nombre": "Obra de Teatro: La Casa de Bernarda Alba",
+    "tipo": "Teatro",
+    "ciudad": "Cali",
+    "fecha": "2024-11-24",
+    "lugar": "Teatro Municipal",
+    "precio":38000
+  },
+  {
+    "nombre": "Concierto de Juanes",
+    "tipo": "Concierto",
+    "ciudad": "Cali",
+    "fecha": "2024-11-21",
+    "lugar": "Centro de Eventos Valle del Pacífico",
+    "precio":230000
+  },
+  {
+    "nombre": "Partido de Baloncesto: Cali vs Bucaramanga",
+    "tipo": "Evento Deportivo",
+    "ciudad": "Cali",
+    "fecha": "2024-11-23",
+    "lugar": "Coliseo El Pueblo",
+    "precio":21000
+  },
+  {
+    "nombre": "Obra de Teatro: El Hombre de La Mancha",
+    "tipo": "Teatro",
+    "ciudad": "Cali",
+    "fecha": "2024-12-01",
+    "lugar": "Teatro Jorge Isaacs",
+    "precio":36000
+  },
+  {
+    "nombre": "Concierto de Shakira",
+    "tipo": "Concierto",
+    "ciudad": "Cali",
+    "fecha": "2024-12-05",
+    "lugar": "Estadio Pascual Guerrero",
+    "precio":980000
+  },
+  {
+    "nombre": "Concierto de Shakira",
+    "tipo": "Concierto",
+    "ciudad": "Cali",
+    "fecha": "2024-12-06",
+    "lugar": "Estadio Pascual Guerrero",
+    "precio":980000
+  },
+  {
+    "nombre": "Partido de Fútbol: Cali vs Millonarios",
+    "tipo": "Evento Deportivo",
+    "ciudad": "Cali",
+    "fecha": "2024-12-10",
+    "lugar": "Estadio Deportivo Cali",
+    "precio":76000
+  },
+  {
+    "nombre": "Obra de Teatro: Muerte en Familia",
+    "tipo": "Teatro",
+    "ciudad": "Cali",
+    "fecha": "2024-12-15",
+    "lugar": "Teatro Municipal",
+    "precio":74300
+  },
+  {
+    "nombre": "Concierto de Andres Cepeda",
+    "tipo": "Concierto",
+    "ciudad": "Cali",
+    "fecha": "2024-12-20",
+    "lugar": "Centro Cultural de Cali",
+    "precio":268000
+  }
+]

@@ -1,0 +1,26 @@
+.nav-container{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 20vh;
+
+    h1{
+        color: bisque;
+
+    }
+
+    button{
+        background-color: bisque;
+        border-radius: 10px;
+        padding: 10px;
+        color: blueviolet;
+        border: none;
+        transition: ease-in-out scale .3s;
+
+        &:hover{
+            scale: 1.1;
+        }
+
+    }
+}

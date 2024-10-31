@@ -1,0 +1,31 @@
+.ciudad-container{
+    width: 350px;
+    height: 300px;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: blueviolet;
+    gap: 20px;
+    transition: ease .4s scale;
+    overflow: hidden;
+
+    img{
+        width: 100%;
+        height: 70%;
+
+        
+    }
+
+    h2{
+        color:bisque;
+        font-size: 30px;
+
+    }
+
+    &:hover {
+        scale: 1.1;
+        
+    }
+
+}

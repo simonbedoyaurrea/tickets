@@ -1,0 +1,89 @@
+[
+    {
+      "nombre": "Concierto de Nirvana",
+      "tipo": "Concierto",
+      "ciudad": "Bogotá",
+      "fecha": "2024-11-15",
+      "lugar": "Estadio El Campín",
+      "precio":900000
+    },
+    {
+      "nombre": "Partido Millonarios vs Jaguares",
+      "tipo": "Evento Deportivo",
+      "ciudad": "Bogotá",
+      "fecha": "2024-11-15",
+      "lugar": "Estadio de Techo",
+      "precio":45000
+    },
+    {
+      "nombre": "Concierto de Shakira fecha 1",
+      "tipo": "Concierto",
+      "ciudad": "Bogotá",
+      "fecha": "2025-02-02",
+      "lugar": "Movistar Arena Bogotá",
+      "precio":976000
+    },{
+      "nombre": "Concierto de Shakira fecha 2",
+      "tipo": "Concierto",
+      "ciudad": "Bogotá",
+      "fecha": "2025-02-03",
+      "lugar": "Movistar Arena Bogotá",
+      "precio":970000
+    },
+    {
+      "nombre": "Concierto de Shakira fecha 3",
+      "tipo": "Concierto",
+      "ciudad": "Bogotá",
+      "fecha": "2025-02-05",
+      "lugar": "Movistar Arena Bogotá",
+      "precio":900000
+    },
+    {
+      "nombre": "Obra de Teatro: La Casa de Bernarda Alba",
+      "tipo": "Teatro",
+      "ciudad": "Bogotá",
+      "fecha": "2024-11-18",
+      "lugar": "Teatro Colón",
+      "precio":60000
+    },
+    {
+      "nombre": "partido Santa Fe vs Tolima ",
+      "tipo": "Evento Deportivo",
+      "ciudad": "Bogotá",
+      "fecha": "2024-12-05",
+      "lugar": "Estadio El Campín",
+      "precio":60000
+    },
+    {
+      "nombre": "Concierto de Myke Towers",
+      "tipo": "Concierto",
+      "ciudad": "Bogotá",
+      "fecha": "2024-11-20",
+      "lugar": "Movistar Arena Bogotá",
+      "precio":820000
+    },
+    {
+      "nombre": "Obra de Teatro: Macbeth",
+      "tipo": "Teatro",
+      "ciudad": "Bogotá",
+      "fecha": "2024-11-28",
+      "lugar": "Teatro Colón",
+      "precio":160000
+    },
+    {
+      "nombre": "Festival Internacional de Jazz",
+      "tipo": "Concierto",
+      "ciudad": "Bogotá",
+      "fecha": "2024-12-10",
+      "lugar": "Centro Cultural Gabriel García Márquez",
+      "precio":45000
+    },
+    {
+      "nombre": "Partido La Equidad vs Junior ",
+      "tipo": "Evento Deportivo",
+      "ciudad": "Bogotá",
+      "fecha": "2024-12-15",
+      "lugar": "Estadio de Techo",
+      "precio":21000
+    }
+  ]

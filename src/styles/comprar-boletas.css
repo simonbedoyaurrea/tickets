@@ -1,0 +1,58 @@
+.imagen-espectaculo{
+    width: 240px;
+    height: 300px;
+    background-color: violet;
+}
+
+.info-espectaculo{
+    background-color: blueviolet;
+    color: white;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    
+    
+
+    h2{
+        color: bisque;
+    }
+
+    
+}
+
+.contenedor-espectaculo{
+    display: flex;
+    margin-left: 200px;
+    margin-top:70px
+}
+
+.seleccionador-boletas{
+    display: flex;
+    width: 100%;
+    height: 90%;
+
+    p{
+        text-align: center;
+        background-color: bisque;
+        color: black;
+        width: 60%;
+        padding-top: 8px;
+    }
+    
+
+    button{
+        border: none;
+        padding: 8px;
+        width: 20%;
+        background-color: tomato;
+        color: bisque;
+    }
+}
+
+.cantidad-boletas{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
